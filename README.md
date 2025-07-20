@@ -1,80 +1,78 @@
-<h1 align="center">Hi, I'm Prince Kumar Jha 👋</h1>
+# 👋 Hi, I'm Prince Kumar Jha
 
-<p align="center">
-  Aspiring AI Engineer | 🇮🇳 Indian Student | 🇯🇵 MEXT Scholarship 2026 Applicant
-</p>
-
----
-
-## 🧠 About Me:
-
-- 🧒 I am a 16 y/o high school student from India  
-- 📚 I am currently preparing for:
-  - 🎓 MEXT 2026 (Embassy Route) — aiming for top Japanese universities (Kyoto, Osaka, Tohoku)
-  - 🧪 JEE-level Physics, Chemistry, Math, and English
-- 💻 Learning and building using only a **mobile phone** (no laptop yet!😟😟)
-- ⚙️ Interested in: **Artificial Intelligence**, **Programming**, **Robotics**, and **Creative Problem Solving**
+🎯 High school student from India | Focused on CS/AI | MEXT 2026 Applicant  
+📱 Learning & building *entirely on mobile* — no laptop access yet  
+💡 Believer in: “Tools don’t define skills. Passion does.”
 
 ---
 
-## 🚀 What I'm Learning:
+## 🧠 About Me
 
-- 🐍 **Python** (Sololearn Intermediate, LinkedIn Learning)
-- 🤖 **Basic AI & Machine Learning**
-- 🇯🇵 **Japanese** (starting with Hiragana, N5/N4 level)
-- 📘 **Git, GitHub, Markdown**
-- 🧮 Deepening Math & Logic for competitive and real-world problem solving
+I'm a 16-year-old Indian student passionate about Artificial Intelligence, autonomous systems, and creative problem solving.  
+Currently preparing for competitive exams like JEE and international scholarships including **MEXT (Japan)**, **GKS (Korea)**, and **SINGA (Singapore)**.  
+
+Despite limited resources, I’m actively building my CS/AI foundation using mobile-only tools — and documenting the full journey here on GitHub.
 
 ---
 
-## 🧪 My Goals (May–June 2025):
+## 🚀 What I’m Learning
 
-- ✅ Build 1–2 solid Python + AI projects (on phone)
-- ✅ Upload and document them on GitHub
+- **Programming**: Python (Sololearn Intermediate, LinkedIn Learning), Git, GitHub, Markdown
+- **AI Tools**: Prompt engineering, basic ML with scikit-learn, pandas, matplotlib
+- **Math & Logic**: Strengthening for real-world + competitive problem solving
+- **Language**: Japanese (Hiragana + N5/N4 level vocab), English writing for SOPs
+
+---
+
+## 🎯 Current Goals (July–September 2025)
+
 - ✅ Complete Python Intermediate
-- ✅ Prepare MEXT application: SOP, university research
-- ✅ Improve Japanese reading + vocabulary
+- ✅ Build & upload 1–2 AI-assisted projects using mobile + prompt engineering
+- ✅ Structure all projects with proper READMEs
+- ⏳ Earn 1–2 credible certifications (DeepLearning.AI, LearnPrompting.org)
+- ⏳ Draft strong SOPs for MEXT, GKS, and others
+- ✅ Progress to N4-level Japanese vocabulary + kanji basics
 
 ---
 
-## 🛠 Tech & Tools:
+## 🛠️ Tech Stack & Tools
 
-- Python (beginner to intermediate)
-- Scikit-learn, pandas, matplotlib (basic use)
-- Pydroid 3, Py Coding, ChatGPT (on Android)
-- GitHub (learning version control, project hosting)
-
----
-
-## 📜 Certificates:
-
-- 🟦 [Sololearn: Introduction to Python](https://api2.sololearn.com/v2/certificates/CC-HYXTHHUH/image/png?t=638840929847996510)
-- 🟦 [LinkedIn Learning: Intro to Generative AI](https://drive.google.com/file/d/1JFDWDmCyPfRAs6npmGhviNhzHdLK__1V/view?usp=drivesdk)
-- 🟦 [LinkedIn Learning: What is Generative AI? (by NASB)](https://drive.google.com/file/d/1JBrdI9qFDfgjsMT0YR_apWCTj0rKn0xC/view?usp=drivesdk)
-- 🟦 [LinkedIn Learning: Streamlining work with Microsoft Copilot](https://drive.google.com/file/d/1J8fkFshH6lSV_C5D2y6QEC-VyZhht5ej/view?usp=drivesdk)
-- 🟦 [LinkedIn Learning: Microsoft Copilot's Business chat](https://drive.google.com/file/d/1J7o1b6Wz9zdhZzi0W-L34syO5F0K9deN/view?usp=drivesdk)
-- 
-- 
+- **Languages**: Python (beginner–intermediate), Markdown
+- **AI Tools**: ChatGPT (prompt engineering), scikit-learn, pandas, matplotlib
+- **Mobile IDEs**: Pydroid 3, PyCoding (Android)
+- **Version Control**: Git, GitHub (learning version control + repo management)
 
 ---
 
-## 📌 Universities I'm Targeting:
+## 📜 Certificates
 
-- 🏛 Kyoto University – Dream university for AI & Robotics + Self driven yet open culture 
-- 🏫 Osaka University – Strong AI + Engineering research + Open culture
-- 🏫 Tohoku University – Top-tier tech and creativity-driven culture
+- [Sololearn: Introduction to Python](Certificates/Sololearn_Python.pdf)
+- [LinkedIn Learning: Intro to Generative AI](Certificates/LinkedIn_GenAI_Intro.pdf)
+- [LinkedIn Learning: What is Generative AI? (NASBA)](Certificates/LinkedIn_GenAI_NASBA.pdf)
+- [LinkedIn Learning: Microsoft Copilot Courses](Certificates/LinkedIn_Copilot.pdf)
+
+*More coming soon: DeepLearning.AI Prompt Engineering, LearnPrompting.org*
 
 ---
 
-## 🔗 Connect With Me:
+## 📂 This GitHub = My Public CS/AI Journal
 
-- 💼 LinkedIn: *(Link coming soon)*
+Here you'll find:
+- 🛠 Personal Projects (Python + AI + mobile tools)
+- 📁 Well-documented repos (readme, folders, screenshots if possible)
+- 🎓 Certificates and learning logs
+- 🧠 Experiments in prompt engineering and automation
+
+> Every repo reflects my learning journey — not perfection, but progress.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: jha27022009@gmail.com  
 - 🐙 GitHub: [Prince27022009](https://github.com/Prince27022009)
-- 📧 Email: jha27022009@gmail.com
 
 ---
 
-> *“Tools don’t define your skills. Passion does.”*  
-> — Learning to build AI, one line of Python at a time.
-
-
+> “Tools don’t define your skills. Passion does.”  
+> — Building AI one line of Python at a time, on Android.

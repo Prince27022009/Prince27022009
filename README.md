@@ -13,7 +13,7 @@
   - MEXT 2027 (Japan Embassy Track)
   - GKS (Korea)
   - JEE
-  -CS/AI self-study
+   -CS/AI self-study
 - 📱 Doing all coding and learning using **mobile only**
 - 🧩 Strong focus on **problem solving**, **project-building**, and **self-driven learning**
 

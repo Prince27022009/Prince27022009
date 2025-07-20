@@ -8,62 +8,77 @@
 
 ## 🧠 About Me
 
-I'm a 16-year-old Indian student passionate about Artificial Intelligence, autonomous systems, and creative problem solving.  
-Currently preparing for competitive exams like JEE and international scholarships including **MEXT (Japan)**, **GKS (Korea)**, and **SINGA (Singapore)**.  
-
-Despite limited resources, I’m actively building my CS/AI foundation using mobile-only tools — and documenting the full journey here on GitHub.
+- 🧒 16-year-old student from India, deeply interested in Artificial Intelligence, robotics, and creative tech
+- 🎯 Preparing for:
+  - MEXT 2026 (Japan Embassy Track)
+  - GKS (Korea)
+  - JEE
+  -CS/AI self-study
+- 📱 Doing all coding and learning using **mobile only**
+- 🧩 Strong focus on **problem solving**, **project-building**, and **self-driven learning**
 
 ---
 
 ## 🚀 What I’m Learning
 
-- **Programming**: Python (Sololearn Intermediate, LinkedIn Learning), Git, GitHub, Markdown
-- **AI Tools**: Prompt engineering, basic ML with scikit-learn, pandas, matplotlib
-- **Math & Logic**: Strengthening for real-world + competitive problem solving
-- **Language**: Japanese (Hiragana + N5/N4 level vocab), English writing for SOPs
+- 🐍 **Python** – Intermediate level (Sololearn, LinkedIn Learning)
+- 🤖 **Prompt Engineering** – For building AI-assisted tools
+- 🌐 **Japanese** – Hiragana, Katakana,starting N5 vocabulary
+- 🧮 **Math & Logic** – JEE-level and real-world applications
 
 ---
 
-## 🎯 Current Goals (July–September 2025)
+## 🎯 Goals (July–September 2025)
 
+- ✅ Build and upload 1–2 AI-assisted Python projects (on mobile)
 - ✅ Complete Python Intermediate
-- ✅ Build & upload 1–2 AI-assisted projects using mobile + prompt engineering
-- ✅ Structure all projects with proper READMEs
-- ⏳ Earn 1–2 credible certifications (DeepLearning.AI, LearnPrompting.org)
-- ⏳ Draft strong SOPs for MEXT, GKS, and others
-- ✅ Progress to N4-level Japanese vocabulary + kanji basics
+- ✅ Organize GitHub with proper READMEs and folders
+- ⏳ Earn prompt engineering certificates (DeepLearning.AI, LearnPrompting)
+- ⏳ Improve Japanese to N5 level (reading + kanji basics)
+- ⏳ Draft strong SOPs for MEXT, GKS, etc.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech & Tools
 
-- **Languages**: Python (beginner–intermediate), Markdown
-- **AI Tools**: ChatGPT (prompt engineering), scikit-learn, pandas, matplotlib
-- **Mobile IDEs**: Pydroid 3, PyCoding (Android)
-- **Version Control**: Git, GitHub (learning version control + repo management)
+- **Languages**: Python (Beginner → Intermediate), Markdown
+- **AI Tools**: ChatGPT (prompt engineering, prototyping)
+- **Mobile IDEs**: Pydroid 3, PyCoding (Android-only development)
+- **Platforms**: GitHub (version control, portfolio hosting)
 
 ---
 
 ## 📜 Certificates
 
-- [Sololearn: Introduction to Python](Certificates/Sololearn_Python.pdf)
-- [LinkedIn Learning: Intro to Generative AI](Certificates/LinkedIn_GenAI_Intro.pdf)
-- [LinkedIn Learning: What is Generative AI? (NASBA)](Certificates/LinkedIn_GenAI_NASBA.pdf)
-- [LinkedIn Learning: Microsoft Copilot Courses](Certificates/LinkedIn_Copilot.pdf)
+- [Introduction to Python – Sololearn](Certificates/Sololearn_Python.pdf)  
+  *(Basics of Python syntax, variables, loops, functions)*
 
-*More coming soon: DeepLearning.AI Prompt Engineering, LearnPrompting.org*
+- [Introduction to Generative AI – LinkedIn Learning](Certificates/LinkedIn_GenAI_Intro.pdf)  
+  *(How generative models like ChatGPT work in real use cases)*
+
+- [What is Generative AI? – LinkedIn Learning (NASBA)](Certificates/LinkedIn_GenAI_NASBA.pdf)  
+  *(Conceptual overview of generative AI’s potential and limitations)*
+
+- [Streamlining Work with Microsoft Copilot – LinkedIn](Certificates/LinkedIn_Copilot.pdf)  
+  *(Use of AI assistants for productivity in Microsoft apps)*
+
+- [Business Chat with Microsoft Copilot – LinkedIn](Certificates/LinkedIn_Copilot_Chat.pdf)  
+  *(AI-assisted communication in business environments)*
+
+- 🕒 Upcoming:
+  - DeepLearning.AI – Prompt Engineering for Developers
+  - LearnPrompting.org – Prompt Engineering (Beginner)
 
 ---
 
-## 📂 This GitHub = My Public CS/AI Journal
+## 📂 What You'll Find Here
 
-Here you'll find:
-- 🛠 Personal Projects (Python + AI + mobile tools)
-- 📁 Well-documented repos (readme, folders, screenshots if possible)
-- 🎓 Certificates and learning logs
-- 🧠 Experiments in prompt engineering and automation
+- 🛠 AI-assisted Python projects built using mobile tools
+- 📘 Organized folders with README documentation
+- 📜 Verified certificates showing progress & learning
+- 🧪 Experiments in prompt workflows and learning automation
 
-> Every repo reflects my learning journey — not perfection, but progress.
+> Every project = self-built, self-documented, and mobile-executed.
 
 ---
 

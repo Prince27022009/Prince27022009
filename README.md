@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Kumar Jha
 
-🎯 High school student from India | Focused on CS/AI | MEXT 2026 Applicant  
+🎯 High school student from India | Focused on CS/AI |🇯🇵 MEXT 2026 Applicant🇯🇵 
 📱 Learning & building *entirely on mobile* — no laptop access yet  
 💡 Believer in: “Tools don’t define skills. Passion does.”
 
@@ -10,7 +10,7 @@
 
 - 🧒 16-year-old student from India, deeply interested in Artificial Intelligence, robotics, and creative tech
 - 🎯 Preparing for:
-  - MEXT 2026 (Japan Embassy Track)
+  - MEXT 2027 (Japan Embassy Track)
   - GKS (Korea)
   - JEE
   -CS/AI self-study

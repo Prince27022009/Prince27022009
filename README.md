@@ -50,10 +50,10 @@
 
 ## 📜 Certificates
 
-- [Introduction to Python – Sololearn](Certificates/Sololearn_Python.pdf)  
+- [Introduction to Python – Sololearn]  (https://drive.google.com/file/d/1J7o1b6Wz9zdhZzi0W-L34syO5F0K9deN/view?usp=drivesdk)
   *(Basics of Python syntax, variables, loops, functions)*
 
-- [Introduction to Generative AI – LinkedIn Learning](Certificates/LinkedIn_GenAI_Intro.pdf)  
+- [Introduction to Generative AI – LinkedIn Learning]  
   *(How generative models like ChatGPT work in real use cases)*
 
 - [What is Generative AI? – LinkedIn Learning (NASBA)](Certificates/LinkedIn_GenAI_NASBA.pdf)  

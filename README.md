@@ -50,7 +50,7 @@
 
 ## 📜 Certificates
 
-- [Introduction to Python – Sololearn]  (https://drive.google.com/file/d/1J7o1b6Wz9zdhZzi0W-L34syO5F0K9deN/view?usp=drivesdk)
+- [Introduction to Python – Sololearn]
   *(Basics of Python syntax, variables, loops, functions)*
 
 - [Introduction to Generative AI – LinkedIn Learning]  

@@ -51,6 +51,7 @@
 ## 📜 Major Certificates
 
 ## 📚 Learning logs
+Learning logs
 
 
 

@@ -12,3 +12,7 @@
 
 - [**Business Chat with Microsoft Copilot – LinkedIn**] (https://drive.google.com/file/d/1JFDWDmCyPfRAs6npmGhviNhzHdLK__1V/view?usp=drivesdk)  
   *(AI-assisted communication in business environments)*
+
+  - [**Generative AI typology and Basics**]
+(https://www.cloudskillsboost.google/paths/118/course_templates/536/badge)
+  *(Overall umbrella of AI and function and uses of gen AI)*

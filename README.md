@@ -51,7 +51,7 @@
 ## 📜 Major Certificates
 
 ## 📚 Learning logs
-https://github.com/Prince27022009/Prince27022009/blob/1c44d3f07b1e2b833b243d2f3909e40f78b03946/Learning%20logs
+Learning-logs.md
 
 
 

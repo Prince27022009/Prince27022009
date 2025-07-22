@@ -21,7 +21,7 @@
 
 ## 🚀 What I’m Learning
 
-- 🐍 **Python** – Intermediate level (Sololearn, LinkedIn Learning)
+- 🐍 **Python** – Intermediate level (Sololearn, YouTube)
 - 🤖 **Prompt Engineering** – For building AI-assisted tools
 - 🌐 **Japanese** – Hiragana, Katakana,starting N5 vocabulary
 - 🧮 **Math & Logic** – JEE-level and real-world applications
@@ -35,7 +35,7 @@
 - ✅ Organize GitHub with proper READMEs and folders
 - ⏳ Earn prompt engineering certificates (DeepLearning.AI, LearnPrompting)
 - ⏳ Improve Japanese to N5 level (reading + kanji basics)
-- ⏳ Draft strong SOPs for MEXT, GKS, etc.
+- ⏳ Progress in drafting strong SOPs for MEXT, GKS, etc.
 
 ---
 

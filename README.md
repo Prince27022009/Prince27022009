@@ -11,7 +11,6 @@
 - 🧒 16-year-old student from India, deeply interested in Artificial Intelligence, robotics, and creative tech
 - 🎯 Preparing for:
   - MEXT 2027 (Japan Embassy Track)
-  - GKS (Korea)
   - JEE
   - CS/AI(self-study)
 - 📱 Doing all coding and learning using **mobile only**

@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🧒 16-year-old student from India, deeply interested in Artificial Intelligence, robotics, and creative tech
+- 🧒 17-year-old student from India, deeply interested in Artificial Intelligence, robotics, and creative tech
 - 🎯 Preparing for:
   - MEXT 2027 (Japan Embassy Track)
   - JEE
@@ -21,9 +21,8 @@
 ## 🚀 What I’m Learning
 
 - 🐍 **Python** – Intermediate level (Sololearn, YouTube)
-- 🤖 **Prompt Engineering** – For building AI-assisted tools
 - 🌐 **Japanese** – Hiragana, Katakana,starting N5 vocabulary
-- 🧮 **Math & Logic** – JEE-level and real-world applications
+- 🧮 **Math & Logic** – Jee preperation 
 
 ---
 

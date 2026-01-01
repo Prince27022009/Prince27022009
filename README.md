@@ -27,27 +27,15 @@
 
 ---
 
-## 🎯 Goals (July–September 2025)
-
-- ✅ Build and upload 1–2 AI-assisted Python projects (on mobile)
-- ✅ Complete Python Intermediate
-- ✅ Organize GitHub with proper READMEs and folders
-- ⏳ Earn prompt engineering certificates (DeepLearning.AI, LearnPrompting)
-- ⏳ Improve Japanese to N5 level (reading + kanji basics)
-- ⏳ Progress in drafting strong SOPs for MEXT, GKS, etc.
-
----
 
 ## 🛠️ Tech & Tools
 
 - **Languages**: Python (Beginner → Intermediate), Markdown
-- **AI Tools**: ChatGPT (prompt engineering, prototyping)
-- **Mobile IDEs**: Pydroid 3, PyCoding (Android-only development)
+- **Mobile IDEs**: Pydroid 3, (Android-only development)
 - **Platforms**: GitHub (version control, portfolio hosting)
 
 ---
 
-## 📜 Major Certificates
 
 ## 📚 Learning logs
 https://github.com/Prince27022009/Prince27022009/blob/00a6e20988d6d980cbd49e70f2c9877d79bd3304/Learning-logs.md
@@ -71,9 +59,8 @@ https://github.com/Prince27022009/Prince27022009/blob/00a6e20988d6d980cbd49e70f2
 ## 📬 Contact
 
 - 📧 Email: jha27022009@gmail.com  
-- 🐙 GitHub: [Prince27022009](https://github.com/Prince27022009)
-
----
+- 🤖 GitHub: [Prince27022009](https://github.com/Prince27022009)
+- 🖊️ LinkedIn: 
+- 📔 Blogger:[The Robo-Techie guy] (https://princejhaintroduction.blogspot.com/?m=1)
 
 > “Tools don’t define your skills. Passion does.”  
-> — Building AI one line of Python at a time, on Android.

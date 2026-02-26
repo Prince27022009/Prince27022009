@@ -21,9 +21,9 @@ High school student from India | Focused on CS/AI |🇯🇵 MEXT 2026 Applicant�
 
 ## 🎉 What I’m Learning
 
-- 🐍 **Python** – Intermediate level (Sololearn, YouTube)
-- 🎌 **Japanese** – Hiragana, Katakana,starting N5 vocabulary
--  **Math & Logic** – Jee preperation 
+- 🐍 **Python** : Intermediate level (Sololearn, YouTube)
+- 🎌 **Japanese** : Hiragana, Katakana,starting N5 vocabulary
+- 📔 **Bloging** : Blogs by [The Robo-Techie Guy] on AI, Robotics and Autonomy 
 
 ---
 

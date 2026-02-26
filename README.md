@@ -1,6 +1,7 @@
 # Hi, I'm Prince Kumar Jha
 
 High school student from India | Focused on CS/AI |🇯🇵 MEXT 2026 Applicant🇯🇵 
+
 📱 Learning & building *entirely on mobile* — no laptop access yet  
 💡 Believer in: “Tools don’t define skills. Passion does.”
 
